@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**",
             ],
-            "program": "${workspaceFolder}\\Anagram.JS"
+            "program": "${workspaceFolder}\\CHECK REPEATED ELEMENT.JS"
             ,"console": "integratedTerminal"
         }
     ]

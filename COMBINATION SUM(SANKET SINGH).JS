@@ -34,7 +34,6 @@ console.log(g(8, [2,4,6,8], ""))
 
 
 
-
  function unique_combination(l, sum, K, local, A) {
 
     if (sum == K) {
