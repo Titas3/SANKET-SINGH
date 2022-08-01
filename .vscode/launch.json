@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**",
             ],
-            "program": "${workspaceFolder}\\CHECK REPEATED ELEMENT.JS"
+            "program": "${workspaceFolder}\\FIND PEAK ELEMENT.JS"
             ,"console": "integratedTerminal"
         }
     ]
