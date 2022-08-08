@@ -17,7 +17,7 @@ function merge(arr, start, mid, end) {
     // i -> A, j -> B, k -> C
     while(i < n && j < m) {
         if(A[i] <= B[j]) {
-            arr[k] = A[i];
+            arr[k] = A[i];c
             i++;
             k++;
         } else {

@@ -9,10 +9,9 @@
             "request": "launch",
             "name": "Launch Program",
             "skipFiles": [
-                "<node_internals>/**",
+                "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\BUCKET SORT.JS"
-            ,"console": "integratedTerminal"
+            "program": "${workspaceFolder}\\LINKEDLIST TUTORIAL(DEVELOP WITH AKASH).JS"
         }
     ]
 }
